@@ -1,6 +1,8 @@
 # Summary
-In this program, a player list and country list is made and java 8 streams is used to filter the data.
-Each method used either Maps or LinkedHashMaps for their return types based on the needed response.
+In this program, a player list and country list is created and java 8 streams is used to filter the data.
+Each method used either Maps or LinkedHashMaps based on the required return type.
+
+In Addition, I used java 8 streams to filter data from an imported file within the "FileOperationsUsingStreams".
 
 ## Technology Stack Used:
 - Java
